@@ -13,7 +13,4 @@ Hey, I'm Supreme Emhenya <br>I am a software engineer by education and professio
 ![](https://streak-stats.demolab.com/?user=Emya101&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Emya101&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Emya101&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
